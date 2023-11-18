@@ -520,4 +520,3 @@ public static void main(){
 | -------- | ---------------- | ------------------------------------------- |
 | `data2`  | `List<WTDModel>` | Recieve data from `getDataMoreThan15days()` |
 
-![[/]]

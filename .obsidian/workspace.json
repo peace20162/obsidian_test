@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3ce9b816c5cfaa",
+        "id": "159ca53c15320322",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f1f00d6cdb6db9",
+            "id": "ca7aa49cbd677fa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test Excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Excalidraw.md"
+              }
             }
           },
           {
@@ -150,22 +158,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3f1f00d6cdb6db9",
+  "active": "ca7aa49cbd677fa9",
   "lastOpenFiles": [
+    "Pasted Image 20231112215128_383.png",
+    "Pasted Image 20231112215128_387.png",
+    "Test Excalidraw.md",
+    "llm-flow.jpeg",
+    "Email PTY.md",
+    "📄Test.md",
+    "📄MailService.java.md",
     "Excalidraw/Untitled-2023-10-29-2134.excalidraw.md",
     "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png",
-    "Excalidraw/Drawing 2023-11-10 20.23.58.excalidraw.md",
-    "Test Excalidraw.md",
-    "📄Test.md",
     "Excalidraw/Untitled-2023-10-29-2134.md",
-    "Pasted Image 20231112215128_387.png",
-    "Pasted Image 20231112215128_383.png",
-    "Advanced Table.md",
-    "Email PTY.md",
-    "obsidian_test",
-    "📄MailService.java.md",
-    "Excalidraw/asset/Pasted Image 20231112214955_257.png",
     "Excalidraw/asset/Pasted Image 20231112214955_261.png",
+    "Excalidraw/asset/Pasted Image 20231112214955_257.png",
+    "Excalidraw/Drawing 2023-11-10 20.23.58.excalidraw.md",
+    "Advanced Table.md",
+    "obsidian_test",
     "Pasted Image 20231112215053_263.png",
     "Excalidraw/Untitled-2023-10-29-2134.excalidraw",
     "Pasted Image 20231112215053_266.png",
@@ -181,7 +190,6 @@
     "Notion/Code Documentation/📄MainModels.java.md",
     "Notion/Code Documentation/📄rp003mail.jsp.md",
     "covercon_sports_esports_iconpattern 2.svg",
-    "covercon_sports_esports_iconpattern.svg",
     "OIP.jfif",
     "Notion/Code Documentation/Code Docs/Template 2.md",
     "Notion/Code Documentation/Code Docs/Overview.md",
