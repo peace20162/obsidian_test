@@ -1,0 +1,29 @@
+{
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-plugin-toc:create-toc-next-level": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-importer:open-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "X"
+    }
+  ]
+}
