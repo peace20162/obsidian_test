@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,14 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5b5258ddd314548",
+  "active": "82d96a4de61eccb4",
   "lastOpenFiles": [
-    "Excalidraw/Untitled-2023-10-29-2134.md",
     "Excalidraw/Untitled-2023-10-29-2134.excalidraw.md",
     "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png",
     "Excalidraw/Drawing 2023-11-10 20.23.58.excalidraw.md",
     "Test Excalidraw.md",
     "📄Test.md",
+    "Excalidraw/Untitled-2023-10-29-2134.md",
     "Pasted Image 20231112215128_387.png",
     "Pasted Image 20231112215128_383.png",
     "Advanced Table.md",
