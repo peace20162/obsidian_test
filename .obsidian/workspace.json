@@ -11,8 +11,10 @@
             "id": "82d96a4de61eccb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png"
+              }
             }
           },
           {
@@ -151,23 +157,24 @@
   },
   "active": "e5b5258ddd314548",
   "lastOpenFiles": [
-    "obsidian_test",
-    "📄MailService.java.md",
-    "Excalidraw/Untitled-2023-10-29-2134.excalidraw.md",
     "Excalidraw/Untitled-2023-10-29-2134.md",
+    "Excalidraw/Untitled-2023-10-29-2134.excalidraw.md",
+    "Excalidraw/Untitled-2023-10-29-2134.excalidraw.png",
+    "Excalidraw/Drawing 2023-11-10 20.23.58.excalidraw.md",
+    "Test Excalidraw.md",
+    "📄Test.md",
     "Pasted Image 20231112215128_387.png",
     "Pasted Image 20231112215128_383.png",
-    "Test Excalidraw.md",
+    "Advanced Table.md",
     "Email PTY.md",
-    "Excalidraw/Drawing 2023-11-10 20.23.58.excalidraw.md",
+    "obsidian_test",
+    "📄MailService.java.md",
     "Excalidraw/asset/Pasted Image 20231112214955_257.png",
     "Excalidraw/asset/Pasted Image 20231112214955_261.png",
     "Pasted Image 20231112215053_263.png",
     "Excalidraw/Untitled-2023-10-29-2134.excalidraw",
     "Pasted Image 20231112215053_266.png",
     "Excalidraw/asset",
-    "📄Test.md",
-    "Advanced Table.md",
     "Notion",
     "profile-circle.png",
     "Notion/Code Documentation/Code Docs/Email PTY/Email PTY.md",
@@ -188,7 +195,6 @@
     "Notion/Code Documentation",
     "Excalidraw/lib/presentation-bundle.excalidrawlib",
     "Excalidraw/lib",
-    "Excalidraw/New folder",
     "Untitled.canvas"
   ]
 }
